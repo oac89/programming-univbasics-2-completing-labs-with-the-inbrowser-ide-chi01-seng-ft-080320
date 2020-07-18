@@ -194,3 +194,46 @@ don't worry if some of the test output didn't make sense. We'll walk you through
 the first few labs. Eventually, we'll take a more-in-depth look at how testing
 works so you can not only understand how our labs work, but how to write your
 own!
+lib/your_solution.rb  outputs "Hello World!"
+Learn
+
+
+lib/your_solution.rb
+should output "Hello World!" when run
+learm
+Learn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

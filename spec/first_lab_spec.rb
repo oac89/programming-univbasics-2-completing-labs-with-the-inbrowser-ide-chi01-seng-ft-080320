@@ -6,3 +6,4 @@ describe 'lib/your_solution.rb' do
     require_relative '../lib/your_solution.rb'  # load/run the file 
   end
 end
+filter_parameter_logging
