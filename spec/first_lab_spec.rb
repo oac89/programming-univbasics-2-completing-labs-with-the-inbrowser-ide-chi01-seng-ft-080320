@@ -7,3 +7,4 @@ describe 'lib/your_solution.rb' do
   end
 end
 filter_parameter_logging
+puts "Hello World"
