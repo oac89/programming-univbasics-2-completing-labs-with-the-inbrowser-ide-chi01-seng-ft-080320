@@ -1,6 +1,7 @@
 lib/your_solution.rb
-  outputs = "Hello World!" when run
+  outputs "Hello World!" when run
 puts "Hello World!"
+
 
 
 
